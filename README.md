@@ -47,6 +47,6 @@ resource type 2: 1
 
 # DATA STRUCTURES
 
-Linked Lists: Store resources and processes dynamically
+Linked Lists:- Store resources and processes dynamically
 Global Variables: Maintain system state
 Dynamic Arrays: Track finished processes
