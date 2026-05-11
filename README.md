@@ -43,15 +43,7 @@ resource type 2: 1
 ![alt text](<Screenshot 2026-05-07 133707.png>)
 
 # PROGRAM STRUCTURE
-
-main()
-│
-├── initialize() # Gets user input for processes & resources
-├── calculateneed() # Calculates Need = Max - Allocated
-├── Display tables # Shows Max, Allocated, Need
-├── calculatefreeresources() # Calculates available resources
-└── safechecker() # Displays SAFE(1) or UNSAFE(0)
-└── check_safe_state() # Core Banker's Algorithm
+<img width="555" height="157" alt="Screenshot 2026-05-11 082922" src="https://github.com/user-attachments/assets/8abe7185-11a5-419c-85de-b5dfd0894c2f" />
 
 # DATA STRUCTURES
 
