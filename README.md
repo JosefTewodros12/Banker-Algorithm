@@ -9,7 +9,6 @@ This program implements the Banker's Algorithm to check if a system is in a **SA
 # Compile:
 
 
-
 ```bash
 g++ bankers_algorithm.cpp -o bankers
 ```
