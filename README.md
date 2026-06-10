@@ -47,7 +47,6 @@ resource type 2: 1
 <img width="555" height="157" alt="Screenshot 2026-05-11 082922" src="https://github.com/user-attachments/assets/8abe7185-11a5-419c-85de-b5dfd0894c2f" />
 
 # DATA STRUCTURES
-
 Linked Lists:- Store resources and processes dynamically
 Global Variables: Maintain system state
 Dynamic Arrays: Track finished processes
