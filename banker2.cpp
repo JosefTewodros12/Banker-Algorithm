@@ -39,6 +39,7 @@ void addlasttoresourcelist(resource *t) {
     }
 }
 
+
 void addlastprocess(process *temp) {
     process *temp1;
     temp1 = plist;
