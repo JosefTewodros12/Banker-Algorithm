@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-
 struct resource {
     int rid;
     int amount;
