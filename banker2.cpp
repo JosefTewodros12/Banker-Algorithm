@@ -1,6 +1,5 @@
 #include <iostream>
 using namespace std;
-
 //structure of the resource
 
 struct resource {
