@@ -7,7 +7,6 @@ struct resource {
     int amount;
     resource *next=NULL;
 };
-
 resource *rlist=NULL, *freelist=NULL, *tempresourcelist=NULL, *totallist=NULL;
 
 struct process {
