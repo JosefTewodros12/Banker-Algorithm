@@ -8,7 +8,6 @@ This program implements the Banker's Algorithm to check if a system is in a **SA
 ```bash
 g++ bankers_algorithm.cpp -o bankers
 ```
-
 # SAMPLE OUTPUT
 
 Enter the total number of processes--- 2
