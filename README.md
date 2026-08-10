@@ -35,7 +35,7 @@ Enter allocated list for process 2:
 resource type 1: 2
 resource type 2: 1
 
-<img width="555" height="157" alt="Screenshot 2026-05-11 082922" src="allocationIMG.img" />
+<img width="555" height="157" alt="allocation image" src="allocationIMG.img" />
 
 
 # PROGRAM STRUCTURE
