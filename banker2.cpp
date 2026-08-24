@@ -16,7 +16,6 @@ struct process {
 };
 
 process *plist=NULL;
-
 // function Prototypes
 void initialize();
 void safechecker();
