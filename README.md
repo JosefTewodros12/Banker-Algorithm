@@ -1,6 +1,7 @@
 # BANKER'S ALGORITHM - DEADLOCK AVOIDANCE SIMULATOR
 
 
+
 # WHAT THIS PROGRAM DOES
 This program implements the Banker's Algorithm to check if a system is in a **SAFE** or **UNSAFE** state. It prevents deadlocks by simulating resource allocation to processes.
 # HOW TO RUN
